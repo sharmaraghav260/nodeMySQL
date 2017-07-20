@@ -1,0 +1,23 @@
+{
+  "name": "nodemysql",
+  "version": "1.0.0",
+  "description": "Sample app for using mySQL for Node.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharmaraghav260/nodeMySQL.git"
+  },
+  "author": "Raghav Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharmaraghav260/nodeMySQL/issues"
+  },
+  "homepage": "https://github.com/sharmaraghav260/nodeMySQL#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mysql": "^2.13.0"
+  }
+}
